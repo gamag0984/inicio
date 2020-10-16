@@ -1,0 +1,80 @@
+{
+  "configVersion": 1,
+  "timestamp": 1602830309166,
+  "index": "https://gamag0984.github.io/inicio/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://gamag0984.github.io/inicio/favicon.ico",
+        "https://gamag0984.github.io/inicio/index.html",
+        "https://gamag0984.github.io/inicio/main.4993c13b60f8b1efd43b.js",
+        "https://gamag0984.github.io/inicio/manifest.webmanifest",
+        "https://gamag0984.github.io/inicio/polyfills.35a5ca1855eb057f016a.js",
+        "https://gamag0984.github.io/inicio/runtime.acf0dec4155e77772545.js",
+        "https://gamag0984.github.io/inicio/styles.4154e53e924fd7329071.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://gamag0984.github.io/inicio/assets/icons/icon-128x128.png",
+        "https://gamag0984.github.io/inicio/assets/icons/icon-144x144.png",
+        "https://gamag0984.github.io/inicio/assets/icons/icon-152x152.png",
+        "https://gamag0984.github.io/inicio/assets/icons/icon-192x192.png",
+        "https://gamag0984.github.io/inicio/assets/icons/icon-384x384.png",
+        "https://gamag0984.github.io/inicio/assets/icons/icon-512x512.png",
+        "https://gamag0984.github.io/inicio/assets/icons/icon-72x72.png",
+        "https://gamag0984.github.io/inicio/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://gamag0984.github.io/inicio/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://gamag0984.github.io/inicio/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://gamag0984.github.io/inicio/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://gamag0984.github.io/inicio/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://gamag0984.github.io/inicio/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://gamag0984.github.io/inicio/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://gamag0984.github.io/inicio/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://gamag0984.github.io/inicio/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://gamag0984.github.io/inicio/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://gamag0984.github.io/inicio/index.html": "1674f2e3ec2d5420b739112ba4984012bb125e67",
+    "https://gamag0984.github.io/inicio/main.4993c13b60f8b1efd43b.js": "401373a35c215c2f0115ace2f7e9dc2e945d2852",
+    "https://gamag0984.github.io/inicio/manifest.webmanifest": "bf593af6299ffe2896bf397bccc19edb828d4976",
+    "https://gamag0984.github.io/inicio/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
+    "https://gamag0984.github.io/inicio/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://gamag0984.github.io/inicio/styles.4154e53e924fd7329071.css": "f7b7e3bc5642549f6800a23a347f16f75ae511ea"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
