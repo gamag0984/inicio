@@ -7,4 +7,20 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'inicio';
+  email: string;
+  password: string;
+  nombre: string;
+  newemail: string;
+  newpassword: string;
+registe() {
+
+
+}
+login() {
+
+
+}
+
+
+
 }
